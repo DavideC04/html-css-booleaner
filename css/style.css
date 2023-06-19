@@ -12,7 +12,13 @@
     font-size: 35px;
 }
 
+table,
+th,
+td {
+    border: 1px skyblue
+}
+
 table {
     border-collapse: collapse;
-    width: 30%;
+    width: 90%;
 }
