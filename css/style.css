@@ -12,10 +12,23 @@
     font-size: 35px;
 }
 
-table,
-th,
-td {
-    border: 1px skyblue
+.text_1 {
+    line-height: 0%;
+}
+
+.text_2 {
+    line-height: 0%;
+    font-size: medium;
+}
+
+.text_3 {
+    font-size: small;
+    line-height: 0%;
+}
+
+.text_4 {
+    line-height: 0%;
+    font-size: small;
 }
 
 table {
